@@ -1,0 +1,109 @@
+{
+  "author": "Adalbert Stifter",
+  "contenttype": "prose",
+  "identifier": "stifter-lesni-poutnik-b58f9e4",
+  "isbn": "978-80-274-1833-6",
+  "languagecode": "cs",
+  "modified": "2021-09-09T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Lesní poutník",
+  "revision": "b58f9e4",
+  "generatedAt": {
+    "date": "Sat Apr 16 2022 12:11:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650111082479
+  },
+  "documents": [
+    {
+      "title": "Lesní poutník",
+      "file": "lesni_poutnik_005.html",
+      "words": 12490,
+      "chars": 72324,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "lesni_poutnik_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní poutník",
+      "file": "lesni_poutnik_006.html",
+      "words": 14821,
+      "chars": 85732,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 1,
+      "prev": "lesni_poutnik_005.html",
+      "next": "lesni_poutnik_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lesní poutník",
+      "file": "lesni_poutnik_007.html",
+      "words": 1678,
+      "chars": 9327,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 2,
+      "prev": "lesni_poutnik_006.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Lesní poutník",
+      "file": "colophon.html",
+      "words": 148,
+      "chars": 962,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
+      "prev": "lesni_poutnik_007.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 29141,
+      "chars": 168374,
+      "ideas": 230
+    },
+    "chapters": {
+      "words": 28989,
+      "chars": 167383,
+      "ideas": 206
+    }
+  }
+}

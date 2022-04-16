@@ -1,11 +1,14 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Lesní poutník",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Adalbert Stifter",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-09T00:00:00.000Z"
+      "modified": "2021-09-09T00:00:00.000Z",
+      "isbn": "978-80-274-1833-6"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -30,50 +33,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "lesni_poutnik_001.md",
             "xhtml": "lesni_poutnik_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "lesni_poutnik_002.md",
             "xhtml": "lesni_poutnik_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "lesni_poutnik_003.md",
             "xhtml": "lesni_poutnik_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "lesni_poutnik_004.md",
             "xhtml": "lesni_poutnik_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "lesni_poutnik_005.md",
@@ -84,7 +92,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "U lesních vod"
           },
           {
             "filename": "lesni_poutnik_006.md",
@@ -95,7 +105,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na lesním svahu"
           },
           {
             "filename": "lesni_poutnik_007.md",
@@ -106,20 +118,30 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Na kraji lesa"
           },
           {
             "filename": "lesni_poutnik_008.md",
             "xhtml": "lesni_poutnik_008.xhtml",
             "id": 7,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
+      },
+      {
+        "isSection": true,
+        "inToc": true,
+        "id": "section-2",
+        "children": [],
+        "listType": "plain"
       }
     ]
   },
@@ -243,6 +265,6 @@
       "user": "books-are-next",
       "repo": "stifter-lesni-poutnik"
     },
-    "generatedAt": 1650109131578
+    "generatedAt": 1650111039415
   }
 }
