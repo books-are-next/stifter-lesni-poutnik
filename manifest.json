@@ -1,20 +1,20 @@
 {
   "author": "Adalbert Stifter",
   "contenttype": "prose",
-  "identifier": "stifter-lesni-poutnik-b58f9e4",
+  "identifier": "stifter-lesni-poutnik-1a9039e",
   "isbn": "978-80-274-1833-6",
   "languagecode": "cs",
   "modified": "2021-09-09T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Lesní poutník",
-  "revision": "b58f9e4",
+  "revision": "1a9039e",
   "generatedAt": {
-    "date": "Sat Apr 16 2022 12:11:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650111082479
+    "date": "Mon Apr 25 2022 13:23:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650893016548
   },
   "documents": [
     {
-      "title": "Lesní poutník",
+      "title": "U lesních vod • Lesní poutník",
       "file": "lesni_poutnik_005.html",
       "words": 12490,
       "chars": 72324,
@@ -27,14 +27,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "U lesních vod",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Lesní poutník",
+      "title": "Na lesním svahu • Lesní poutník",
       "file": "lesni_poutnik_006.html",
       "words": 14821,
       "chars": 85732,
@@ -47,14 +47,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Na lesním svahu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Lesní poutník",
+      "title": "Na kraji lesa • Lesní poutník",
       "file": "lesni_poutnik_007.html",
       "words": 1678,
       "chars": 9327,
@@ -67,7 +67,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Na kraji lesa",
           "id": null,
           "children": []
         }

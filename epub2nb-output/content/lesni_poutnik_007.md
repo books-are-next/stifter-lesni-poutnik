@@ -1,8 +1,7 @@
 ---
+title: Na kraji lesa
 contentType: prose
 ---
-
-Na kraji lesa
 
   
 

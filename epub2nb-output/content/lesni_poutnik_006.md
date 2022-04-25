@@ -1,8 +1,7 @@
 ---
+title: Na lesním svahu
 contentType: prose
 ---
-
-Na lesním svahu
 
   
 
