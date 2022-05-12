@@ -13,6 +13,7 @@ meta:
   modified: '2021-09-09T00:00:00.000Z'
   isbn: 978-80-274-1833-6
 readingOrder:
+  - promo.html
   - lesni_poutnik_005.html
   - lesni_poutnik_006.html
   - lesni_poutnik_007.html
