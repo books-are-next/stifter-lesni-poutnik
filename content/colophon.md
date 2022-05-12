@@ -2,6 +2,16 @@
 title: Tiráž
 ---
 
+Adalbert Stifter    
+Lesní poutník  
+Překlad Hanuš Karlach  
+Ilustrace na obálce Jakub Tesař  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 1. elektronické vydání  
+1. vydání z 12. 5. 2022.
+
 ***
 
 Znění tohoto textu vychází z díla [Lesní poutník](https://search.mlp.cz/cz/titul/lesni-poutnik/2390816/#/) tak, jak bylo vydáno nakladatelstvím Vitalis v Praze v roce 2004. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
@@ -20,44 +30,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 1.0 z 10. 9. 2021.
 
 ![](../Images/image002.jpg)
-
-
-***
-
-Adalbert Stifter  
-Lesní poutník
-
-Překlad Hanuš Karlach
-
-  
-
-Ilustrace na obálce Jakub Tesař
-
-  
-
-Redakce Markéta Teuchnerová
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-V MKP 1. elektronické vydání
-
-  
-
-Verze 1.0 z 10. 9. 2021
-
-ISBN 978-80-274-1833-6 (epub)
-
-  
-
-ISBN 978-80-274-1834-3 (pdf)
-
-  
-
-ISBN 978-80-274-1835-0 (prc)
