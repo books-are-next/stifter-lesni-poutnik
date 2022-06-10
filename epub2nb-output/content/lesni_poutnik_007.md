@@ -3,6 +3,8 @@ title: Na kraji lesa
 contentType: prose
 ---
 
+<section>
+
 Už toho máme na vyprávění jen málo. Stalo se přesně to, co se vzhledem ke sličnosti a umíněnosti lidského srdce stát muselo.
 
 Jsme nuceni přeskočit rozpětí let, protože z toho, co se v nich přihodilo, nemáme dostupné žádné podrobnosti. Můžeme mluvit jen všeobecně o tom, co věděli málem všichni, až poté na konci znovu budeme moci vyprávět jistou jednotlivost, o které ne všichni věděli.
@@ -68,3 +70,5 @@ Ve vysokém věku, kdy jeho žena byla už po smrti, jeho synové od něho odeš
 Nevíme, kde je starý lesní poutník teď. Možná ještě někde žije, možná zemřel – nevíme to. O jeho manželce Koroně také nic nevíme. Pokud ještě žije, je hodně stará a jistě tak sama jako tehdy, kdy odešla od svého otce, jen s tím rozdílem, že teď není u žádných příbuzných, a že tehdy měla před očima začátek, teď blízký konec. – – Ať jsou kdekoliv, a pokud ještě jsou: Bůh si je k sobě jistě brzy povolá.
 
 Ti dva lidé se kdysi hrozně zmýlili; měli obětovat radost z dětí a hřát se jen teplem svých srdcí, dávat štěstí jeden druhému a brát si jeden od druhého štěstí až za hrob, a až by předstoupili před tvář Boží, měli říci: „Nemůžeme přinést v oběť děti, zato srdce, kterés nám dal, srdce, která se nedokázala od sebe odloučit a která si s sebou přinášejí to málo, co jim zbylo: lásku a věrnost až do smrti.“
+
+</section>
