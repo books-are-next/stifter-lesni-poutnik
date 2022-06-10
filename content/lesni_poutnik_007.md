@@ -3,8 +3,6 @@ title: Na kraji lesa
 contentType: prose
 ---
 
-  
-
 Už toho máme na vyprávění jen málo. Stalo se přesně to, co se vzhledem ke sličnosti a umíněnosti lidského srdce stát muselo.
 
 Jsme nuceni přeskočit rozpětí let, protože z toho, co se v nich přihodilo, nemáme dostupné žádné podrobnosti. Můžeme mluvit jen všeobecně o tom, co věděli málem všichni, až poté na konci znovu budeme moci vyprávět jistou jednotlivost, o které ne všichni věděli.
