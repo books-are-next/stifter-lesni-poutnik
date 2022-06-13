@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-lesni-poutnik-4cbe3cd",
-  "revision": "4cbe3cd",
+  "identifier": "stifter-lesni-poutnik-20615cb",
+  "revision": "20615cb",
   "readingOrder": [
     "promo.html",
     "lesni_poutnik_005.html",
@@ -17,8 +17,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:11:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949519831
+    "date": "Mon Jun 13 2022 21:58:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157515106
   },
   "documents": [
     {
@@ -96,9 +96,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 95,
-      "chars": 631,
-      "ideas": 9,
+      "words": 128,
+      "chars": 821,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "lesni_poutnik_007.html",
@@ -116,9 +116,9 @@
   ],
   "totals": {
     "all": {
-      "words": 29088,
-      "chars": 168043,
-      "ideas": 217
+      "words": 29121,
+      "chars": 168233,
+      "ideas": 225
     },
     "chapters": {
       "words": 28989,
