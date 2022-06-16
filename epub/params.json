@@ -8,7 +8,9 @@
       "author": "Adalbert Stifter",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-09T00:00:00.000Z",
-      "isbn": "978-80-274-1833-6"
+      "isbn": "978-80-274-1833-6",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
