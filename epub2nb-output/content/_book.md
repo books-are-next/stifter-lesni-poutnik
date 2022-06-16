@@ -12,6 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-09T00:00:00.000Z'
   isbn: 978-80-274-1833-6
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - lesni_poutnik_005.html
