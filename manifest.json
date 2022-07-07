@@ -8,18 +8,18 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-lesni-poutnik-ab839eb",
-  "revision": "ab839eb",
+  "identifier": "stifter-lesni-poutnik-cb9c036",
+  "revision": "cb9c036",
   "readingOrder": [
     "promo.html",
     "lesni_poutnik_005.html",
     "lesni_poutnik_006.html",
     "lesni_poutnik_007.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:29:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980141492
+    "date": "Thu Jul 07 2022 08:40:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183217233
   },
   "documents": [
     {
@@ -83,7 +83,7 @@
       "role": "chapter",
       "order": 3,
       "prev": "lesni_poutnik_006.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -96,11 +96,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 146,
-      "chars": 965,
+      "chars": 964,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "lesni_poutnik_007.html",
       "next": null,
@@ -118,7 +118,7 @@
   "totals": {
     "all": {
       "words": 29141,
-      "chars": 168388,
+      "chars": 168387,
       "ideas": 228
     },
     "chapters": {

@@ -19,7 +19,7 @@ readingOrder:
   - lesni_poutnik_005.html
   - lesni_poutnik_006.html
   - lesni_poutnik_007.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
