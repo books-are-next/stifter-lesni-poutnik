@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-lesni-poutnik-cac00f7",
-  "revision": "cac00f7",
+  "identifier": "stifter-lesni-poutnik-6d5e5c0",
+  "revision": "6d5e5c0",
   "readingOrder": [
     "promo.html",
     "lesni_poutnik_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:04:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640282970
+    "date": "Tue Oct 04 2022 16:52:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902367268
   },
   "documents": [
     {
@@ -97,9 +97,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 146,
+      "words": 143,
       "chars": 965,
-      "ideas": 18,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "lesni_poutnik_007.html",
@@ -117,9 +117,9 @@
   ],
   "totals": {
     "all": {
-      "words": 29141,
+      "words": 29138,
       "chars": 168388,
-      "ideas": 228
+      "ideas": 225
     },
     "chapters": {
       "words": 28989,
