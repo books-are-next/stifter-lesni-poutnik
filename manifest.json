@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "stifter-lesni-poutnik-9702229",
-  "revision": "9702229",
+  "identifier": "stifter-lesni-poutnik-419d602",
+  "revision": "419d602",
   "readingOrder": [
     "promo.html",
     "lesni_poutnik_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:05:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924745098
+    "date": "Fri Oct 07 2022 14:07:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151675735
   },
   "documents": [
     {
